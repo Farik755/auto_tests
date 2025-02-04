@@ -1,3 +1,3 @@
 # auto_tests
 
-git@github.com:Farik755/auto_tests.git
+Коллекция готовых скриптов из курса Stepik. Все скрипты рабочие.
