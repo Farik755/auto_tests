@@ -36,3 +36,5 @@ finally:
     
     time.sleep(10)
     browser.quit()
+
+# скрипт рабочий    
